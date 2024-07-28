@@ -95,7 +95,8 @@ Fork the repository.
 
 ## Images
 ![image](https://github.com/user-attachments/assets/b27b88b8-4019-48b8-aafe-7b3e3ab9be95) ![image](https://github.com/user-attachments/assets/8cd7de44-34c1-4e84-8b8d-c09f24c3f1cd)
-![image](https://github.com/user-attachments/assets/6dd06b93-53bb-4ba8-854d-2297ca873fe3)
+![image](https://github.com/user-attachments/assets/6dd06b93-53bb-4ba8-854d-2297ca873fe3) ![image](https://github.com/user-attachments/assets/fc34414d-50a3-43a9-b635-21ee82848898)
+
 
 ## License
 This project is licensed under the MIT License.
