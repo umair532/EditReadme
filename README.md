@@ -100,5 +100,5 @@ Fork the repository.
 ## License
 This project is licensed under the MIT License.
 
-umair532 and ensure the repository is accessible and the instructions are clear and easy to follow. This README file provides comprehensive instructions on setting up and running the project, along with a detailed project structure and the design decisions made during development.
+umair532 and ensures the repository is accessible and the instructions are clear and easy to follow. This README file provides comprehensive instructions on setting up and running the project, along with a detailed project structure and the design decisions made during development.
 
