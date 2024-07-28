@@ -78,7 +78,7 @@ UI Library: Used Material-UI for a polished and responsive user interface.
 Routing: Used React Router for navigation between different pages.
 
 Contributing
-Contributions are welcome! Please open an issue or submit a pull request with your changes.
+- Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
 Fork the repository.
 - Create a new branch (git checkout -b feature-branch).
