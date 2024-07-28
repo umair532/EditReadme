@@ -30,12 +30,12 @@ VITE_API_BASE_URL=http://your-api-url.com
 Start the development server:
 npm run dev
 
-The application will be available at http://localhost:3000.
+The application will be available at [http://localhost:5173/]
 
 Usage
 To use the application, follow these steps:
   
-    Open your browser and go to http://localhost:3000.
+    Open your browser and go to [http://localhost:5173/]
     Use the search form to search for pets by animal type, location, and breed.
     Click on a pet to view its details.
 
