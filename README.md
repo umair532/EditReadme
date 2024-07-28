@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/559372cb-24fa-4396-b334-bc54e3629804)
+
 # Pet Listing Website
 
 This project is a pet listing website where users can search and view details of various pets. It is built using React, React Router, Context API for state management, and Material-UI for styling.
