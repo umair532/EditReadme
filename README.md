@@ -18,11 +18,11 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/pet-listing.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
       cd pet-listing
 
-To install the dependencies, run:
+3. To install the dependencies, run:
 
       npm install
 
@@ -35,14 +35,16 @@ Start the development server:
 
 The application will be available at [http://localhost:5173/]
 
-Usage
+##Usage
+
 To use the application, follow these steps:
   
     Open your browser and go to [http://localhost:5173/]
     Use the search form to search for pets by animal type, location, and breed.
     Click on a pet to view its details.
 
-Project Structure
+##Project Structure
+
 The project structure is as follows:
 
 - pet-listing/
@@ -74,13 +76,13 @@ Key Components
 Services
 - api.js: Contains functions for making API calls to fetch and search pets.
 
-Design Decisions
+##Design Decisions
 - State Management: Used Context API for state management to keep the project simple and avoid the overhead of Redux for this small application.
 UI Library: Used Material-UI for a polished and responsive user interface.
 - Error Handling: Implemented an ErrorBoundary component to catch and display errors gracefully.
 Routing: Used React Router for navigation between different pages.
 
-Contributing
+##Contributing
 - Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
 Fork the repository.
@@ -89,7 +91,7 @@ Fork the repository.
 - Push to the branch (git push origin feature-branch).
 - Open a Pull Request.
 
-License
+##License
 This project is licensed under the MIT License.
 
 umair532 and ensure the repository is accessible and the instructions are clear and easy to follow. This README file provides comprehensive instructions on setting up and running the project, along with a detailed project structure and the design decisions made during development.
