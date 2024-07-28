@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/559372cb-24fa-4396-b334-bc54e3629804)
+![image](https://github.com/user-attachments/assets/b27b88b8-4019-48b8-aafe-7b3e3ab9be95) ![image](https://github.com/user-attachments/assets/8cd7de44-34c1-4e84-8b8d-c09f24c3f1cd)
+
 
 # Pet Listing Website
 
