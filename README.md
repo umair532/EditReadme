@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/b27b88b8-4019-48b8-aafe-7b3e3ab9be95) ![image](https://github.com/user-attachments/assets/8cd7de44-34c1-4e84-8b8d-c09f24c3f1cd)
-
-
 # Pet Listing Website
 
 This project is a pet listing website where users can search and view details of various pets. It is built using React, React Router, Context API for state management, and Material-UI for styling.
@@ -98,5 +95,9 @@ Fork the repository.
 This project is licensed under the MIT License.
 
 umair532 and ensure the repository is accessible and the instructions are clear and easy to follow. This README file provides comprehensive instructions on setting up and running the project, along with a detailed project structure and the design decisions made during development.
+
+![image](https://github.com/user-attachments/assets/b27b88b8-4019-48b8-aafe-7b3e3ab9be95) ![image](https://github.com/user-attachments/assets/8cd7de44-34c1-4e84-8b8d-c09f24c3f1cd)
+![image](https://github.com/user-attachments/assets/6dd06b93-53bb-4ba8-854d-2297ca873fe3)
+
 
 
