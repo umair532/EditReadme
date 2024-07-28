@@ -42,48 +42,49 @@ To use the application, follow these steps:
 Project Structure
 The project structure is as follows:
 
-pet-listing/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── ErrorBoundary.jsx
-│   │   ├── PetDetails.jsx
-│   │   ├── PetList.jsx
-│   │   ├── SearchForm.jsx
-│   ├── contexts/
-│   │   ├── PetContext.jsx
-│   ├── services/
-│   │   ├── api.js
-│   ├── App.jsx
-│   ├── index.jsx
-├── .env
-├── .eslintrc.json
-├── package.json
-├── README.md
+- pet-listing/
+- ├── public/
+- ├── src/
+- │   ├── components/
+- │   │   ├── ErrorBoundary.jsx
+- │   │   ├── PetDetails.jsx
+- │   │   ├── PetList.jsx
+- │   │   ├── SearchForm.jsx
+- │   ├── contexts/
+- │   │   ├── PetContext.jsx
+- │   ├── services/
+- │   │   ├── api.js
+- │   ├── App.jsx
+- │   ├── index.jsx
+- ├── .env
+- ├── .eslintrc.json
+- ├── package.json
+- ├── README.md
 
 Key Components
-ErrorBoundary.jsx: Catches and displays errors.
-PetDetails.jsx: Displays details of a selected pet.
-PetList.jsx: Displays a list of pets.
-SearchForm.jsx: Allows users to search for pets.
-PetContext.jsx: Manages global state using Context API.
+- ErrorBoundary.jsx: Catches and displays errors.
+- PetDetails.jsx: Displays details of a selected pet.
+- PetList.jsx: Displays a list of pets.
+- SearchForm.jsx: Allows users to search for pets.
+- PetContext.jsx: Manages global state using Context API.
+
 Services
-api.js: Contains functions for making API calls to fetch and search pets.
+- api.js: Contains functions for making API calls to fetch and search pets.
 
 Design Decisions
-State Management: Used Context API for state management to keep the project simple and avoid the overhead of Redux for this small application.
+- State Management: Used Context API for state management to keep the project simple and avoid the overhead of Redux for this small application.
 UI Library: Used Material-UI for a polished and responsive user interface.
-Error Handling: Implemented an ErrorBoundary component to catch and display errors gracefully.
+- Error Handling: Implemented an ErrorBoundary component to catch and display errors gracefully.
 Routing: Used React Router for navigation between different pages.
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Open a Pull Request.
 
 License
 This project is licensed under the MIT License.
