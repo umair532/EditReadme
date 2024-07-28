@@ -82,7 +82,7 @@ UI Library: Used Material-UI for a polished and responsive user interface.
 - Error Handling: Implemented an ErrorBoundary component to catch and display errors gracefully.
 Routing: Used React Router for navigation between different pages.
 
-##Contributing
+## Contributing
 - Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
 Fork the repository.
