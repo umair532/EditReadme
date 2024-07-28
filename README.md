@@ -30,7 +30,8 @@ Create a `.env` file in the root directory and add your API base URL:
 VITE_API_BASE_URL=http://your-api-url.com
 
 Start the development server:
-npm run dev
+
+      npm run dev
 
 The application will be available at [http://localhost:5173/]
 
