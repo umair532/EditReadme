@@ -22,6 +22,7 @@ Navigate to the project directory:
 cd pet-listing
 
 Install dependencies:
+with npm:
 npm install
 
 Create a `.env` file in the root directory and add your API base URL:
