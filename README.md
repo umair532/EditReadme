@@ -21,8 +21,7 @@ To set up the project locally, follow these steps:
 Navigate to the project directory:
 cd pet-listing
 
-Install dependencies:
-with npm:
+To install the dependencies, run:
 npm install
 
 Create a `.env` file in the root directory and add your API base URL:
