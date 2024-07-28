@@ -19,10 +19,12 @@ To set up the project locally, follow these steps:
    git clone https://github.com/yourusername/pet-listing.git
 
 Navigate to the project directory:
-cd pet-listing
+
+      cd pet-listing
 
 To install the dependencies, run:
-npm install
+
+      npm install
 
 Create a `.env` file in the root directory and add your API base URL:
 VITE_API_BASE_URL=http://your-api-url.com
