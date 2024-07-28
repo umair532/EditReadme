@@ -10,7 +10,7 @@ This project is a pet listing website where users can search and view details of
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+#### Installation
 
 To set up the project locally, follow these steps:
 
@@ -35,7 +35,7 @@ Start the development server:
 
 The application will be available at [http://localhost:5173/]
 
-##Usage
+######Usage
 
 To use the application, follow these steps:
   
